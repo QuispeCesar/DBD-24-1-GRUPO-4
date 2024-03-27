@@ -1,4 +1,7 @@
 # Diego Montes Lozano
+* Código : 20210251D
+* Correo : diego.montes.l@uni.pe
+* Edad: 21
 ## Presentacion
 * ¿Por qué la UNI - FIIS?
   Me gusto la carrera de ingeniería de sistemas, pero mis padres no podían costear una educación en una universidad privada. Entonces, elegí la UNI.
@@ -12,3 +15,6 @@ Pienso que este curso es vital por que nos enseña la relevancia de tener y plan
 Que potencie nuestras habilidades en base de datos, nos de un mejor panorama de como crear de forma adecuada un diseño de base de datos.
 * ¿Cómo me veo en 10 años?
 Me veo teniendo mi propia empresa, con la experiencia de todos esos años sería capaz de poder dirigir una empresa de TI o consultorías. También me gustaría ser gerente en el área de Data Analytics o Data Science en una empresa reconocida o propia.
+
+## GitHub
+**USUARIO :** [Diego_ML](https://github.com/Diego-ML)
