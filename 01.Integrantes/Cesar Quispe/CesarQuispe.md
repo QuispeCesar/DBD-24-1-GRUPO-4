@@ -1,6 +1,6 @@
 # Cesar Quispe
 
-![Cesar Quispe](CesarQuispe.jpg)
+<img src="CesarQuispe.jpg" alt="Cesar Quispe" style="width: 25%; height: auto;" />
 
 Soy Quispe Mitma Cesar, un estudiante de la Universidad Nacional de Ingeniería, que cursa el sexto ciclo de la carrera, estoy muy interesado en el Análisis de datos y la Inteligencia Artificial.
 
