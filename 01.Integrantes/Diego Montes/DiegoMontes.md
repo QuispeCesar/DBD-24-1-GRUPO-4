@@ -18,3 +18,6 @@ Que potencie nuestras habilidades en base de datos, nos de un mejor panorama de 
 * ¿Cómo me veo en 10 años?
 Me veo teniendo mi propia empresa, con la experiencia de todos esos años sería capaz de poder dirigir una empresa de TI o consultorías. También me gustaría ser gerente en el área de Data Analytics o Data Science en una empresa reconocida o propia.
 
+**[Ver a integrantes](../integrantes.md)**
+
+***[Regresar al índice](../../README.md)***
