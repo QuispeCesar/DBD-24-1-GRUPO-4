@@ -1,5 +1,13 @@
-Nombre y Apellidos: Taipe Sicha Ronny Andy
+# Andy Taipe Sicha
+<img src="AndyTaipe.jpg" alt="Andy Taipe Sicha" style="width: 10%; height: auto;" />
 
+* Código : 20211404I
+* Ciclo Relativo : 5to
+* Correo personal: andytaipesicha@gmail.com
+* Correo institucional: ronny.taipe.s@uni.pe
+* Edad: 21
+* **GitHub:** [TaipeAndy](https://github.com/TaipeAndy)
+## Presentación
 •¿Por qué la UNI - FIIS?
 La carrera que deseaba y el prestigio de la universidad fueron las razones principales del porq elegir la carrera de ingeniería de sistemas en la FIIS.
 
@@ -17,3 +25,7 @@ Espero reforzar conocimientos que quizá no me quedaron del todo claro en el cur
 
 •¿Cómo me veo en 10 años?
 Me veo como el líder de un equipo de trabajo remoto de una empresa de prestigio.
+
+**[Ver a integrantes](../integrantes.md)**
+
+***[Regresar al índice](../../README.md)***
