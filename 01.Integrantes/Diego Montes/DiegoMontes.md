@@ -1,7 +1,9 @@
 # Diego Montes Lozano
 * Código : 20210251D
+* Ciclo Relativo : 6to
 * Correo : diego.montes.l@uni.pe
 * Edad: 21
+* **GitHub:** [Diego_ML](https://github.com/Diego-ML)
 ## Presentacion
 * ¿Por qué la UNI - FIIS?
   Me gusto la carrera de ingeniería de sistemas, pero mis padres no podían costear una educación en una universidad privada. Entonces, elegí la UNI.
@@ -16,5 +18,3 @@ Que potencie nuestras habilidades en base de datos, nos de un mejor panorama de 
 * ¿Cómo me veo en 10 años?
 Me veo teniendo mi propia empresa, con la experiencia de todos esos años sería capaz de poder dirigir una empresa de TI o consultorías. También me gustaría ser gerente en el área de Data Analytics o Data Science en una empresa reconocida o propia.
 
-## GitHub
-**USUARIO :** [Diego_ML](https://github.com/Diego-ML)
