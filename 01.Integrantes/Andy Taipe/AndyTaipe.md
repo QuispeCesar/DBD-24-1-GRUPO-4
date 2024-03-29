@@ -1,5 +1,5 @@
 # Andy Taipe Sicha
-<img src="AndyTaipe.jpg" alt="Andy Taipe Sicha" style="width: 10%; height: auto;" />
+<img src="AndyTaipe.jpeg" alt="Andy Taipe Sicha" style="width: 10%; height: auto;" />
 
 * Código : 20211404I
 * Ciclo Relativo : 5to
