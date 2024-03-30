@@ -1,5 +1,7 @@
 # Jhon Damian
 
+<img src="kenedydamian.jpg" alt="Kenedy Damian" style="width: 25%; height: auto;" />
+
 Hola, mi nombre es Jhon Kenedy Damian Cutisaca y estoy estudiando la carrera de Ingenieria de Sistemas en la Universidad Nacional de Ingenieria
 
 * Ciclo relativo : 5
@@ -7,6 +9,8 @@ Hola, mi nombre es Jhon Kenedy Damian Cutisaca y estoy estudiando la carrera de 
 * Correo personal : jkdamian11@gmail.com
 * Correo institucional : jhon.damian.c@uni.pe
 * Usuario de Github: [kenedy428](https://github.com/kenedy428) 
+
+# Presentacion
 
 **¿Por qué la UNI - FIIS?**
 
@@ -31,3 +35,7 @@ Espero comprender mejor el modelamiento de datos, y poder plasmarlo en un progra
 **¿Cómo me veo en 10 años?**
 
 En 10 años ya me veo como un ingeniero de sistemas, trabajando en una empresa formada junto a un grupo de compañeros que tengo, y poco a poco estamos avanzando.
+
+**[Ver a integrantes](../integrantes.md)**
+
+***[Regresar al índice](../../README.md)***
