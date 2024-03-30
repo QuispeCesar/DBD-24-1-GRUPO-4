@@ -20,7 +20,7 @@ Fue una experiencia inolvidable, cada curso era una experiencia diferente, en un
 
 Mi experiencia con la programación fue aceptable únicamente con los cursos que llevé en la carrera,como Python,c++,y java,y con respecto a la base de datos, vi de manera básica lo que es el SQL.
 
-** ¿Cómo fue mi experiencia en el curso de Modelado Conceptual de datos y qué tema elegí?**
+**¿Cómo fue mi experiencia en el curso de Modelado Conceptual de datos y qué tema elegí?**
 
 Mi experiencia en el curso de modelado conceptual de datos fue placentera, escogí una empresa de ponedora de huevos, y con mi grupo nos dedicamos a modelar el área de crianza de gallinas.
 
