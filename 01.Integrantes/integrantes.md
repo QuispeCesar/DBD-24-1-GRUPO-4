@@ -3,7 +3,7 @@
 - [Andy Taipe](Andy%20Taipe/AndyTaipe.md)
 - [Cesar Quispe](Cesar%20Quispe/CesarQuispe.md)
 - [Diego Montes](Diego%20Montes/DiegoMontes.md)
-- [Jhon Damian](Jhon%20Damian/kenedydamian.md)
+- [Jhon Damian](kenedy%20damian/kenedydamian.md)
 - [Alexandra Peralta](Alexandra%20Peralta/AlexandraPeralta.md)
 - [Christian Salazar](Christian%20Salazar/ChristianSalazar.md)
 
