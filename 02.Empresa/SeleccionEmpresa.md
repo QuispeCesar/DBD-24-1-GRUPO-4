@@ -1,5 +1,5 @@
 # Selección de la Empresa
-![MigniStore](mignistore.jpg)\
+![MigniStore](mignistore.jpg)
 
 **Empresa elegida**: Migni Store
 
