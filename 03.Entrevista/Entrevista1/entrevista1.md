@@ -6,4 +6,3 @@
 
 [Regresar a las Entrevistas](../entrevista.md)
 
-[Regresar al índice](../README.md)
