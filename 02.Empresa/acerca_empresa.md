@@ -6,6 +6,25 @@ Convertirnos en la plataforma preferida para la compra de productos de belleza y
 ## Descripción
 Es una microempresa que vende maquillaje y papelería que busca traer productos de buena calidad y buen precio, sus principales productos son maquillaje, lapiceros, cuadernos.
 
+## Productos ofrecidos
+### Papeleria 
+* Cuadernos
+* Lapiceros
+### Maquillaje
+* Paletas
+* Rubores
+* Primers
+* Polvos y correctores
+* Glitter
+* Delineadores de ojos y labios
+* Labiales y glosses
+* Mascaras de pestañas
+
+## Servicios ofrecidos
+* Clases de automaquillaje virtual
+  * Para clientes
+  * Para externos
+
 [Selección de la empresa](SeleccionEmpresa.md)
 
 [Regresar al índice](../README.md)
