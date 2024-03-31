@@ -4,6 +4,6 @@
 - [Entrevista1](https://drive.google.com/drive/folders/1TTn2h-Z3sSz5ciMGMDi5mqIKiaWJ94f7?usp=sharing)
 
 
-[Regresar a las Entrevistas](entrevistas.md)
+[Regresar a las Entrevistas](../entrevistas.md)
 
 [Regresar al índice](../README.md)
