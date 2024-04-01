@@ -1,5 +1,6 @@
 # Alexandra Peralta
 <img src="AlexandraPeralta.jpg" alt="Alexandra Peralta" style="width: 25%; height: auto;" />
+
 - Código : 20210151J
 - Ciclo Relativo : 6to
 - Correo : alexandra.peralta.g@uni.pe
