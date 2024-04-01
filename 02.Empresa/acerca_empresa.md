@@ -1,8 +1,8 @@
 # Migni Store
 ## Misión 
-Proporcionar una amplia gama de productos de alta calidad en el ámbito del maquillaje y la papelería, ofreciendo a nuestros clientes precios accesibles y muy cercanos al mercado inicial a través de una plataforma de comercio virtual fácil de usar. Nos comprometemos a brindar un servicio de entrega personalizado que garantice la satisfacción y seguridad del cliente en cada compra.
+Nuestra misión es ser un referente en el mercado por la diversidad y calidad de nuestros productos en papelería y maquillaje. Buscamos ofrecer una orientación personalizada a nuestros clientes para encontrar los productos que mejor se adapten a sus gustos con la única finalidad de satisfacerlos.💗✨ 
 ## Visión 
-Convertirnos en la plataforma preferida para la compra de productos de belleza y artículos de papelería tanto para hombres como para mujeres, ofreciendo una experiencia de compra en línea excepcional y entregas personalizadas que satisfagan las necesidades únicas de cada cliente.
+Nuestra visión es ser reconocidos como el espacio preferido para aquellos que buscan una experiencia de compra excepcional en el mundo del maquillaje y la papelería por lo que nos esforzamos por crear un ambiente acogedor y emocionante, donde los clientes puedan explorar una amplia diversidad de productos y recibir asesoramiento personalizado por parte de nuestro equipo capacitado. Es así que aspiramos establecer relaciones sólidas y duraderas con nuestros clientes, basadas en la confianza, la satisfacción y la lealtad hacia nuestro servicio por eso es que nos innovaremos constantemente para mantenernos a la vanguardia de las tendencias y necesidades de nuestros público, sin descuidar la dedicación y calidad procurada. 💗
 ## Descripción
 Es una microempresa que vende maquillaje y papelería que busca traer productos de buena calidad y buen precio, sus principales productos son maquillaje, lapiceros, cuadernos.
 
