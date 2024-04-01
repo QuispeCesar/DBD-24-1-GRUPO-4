@@ -29,4 +29,4 @@ Me veo liderando un grupo de personas dentro de una empresa ya sea importante o 
 
 **[Ver a integrantes](../integrantes.md)**
 
-***[Regresar al índice](../../README.md)***
+**[Regresar al índice](../../README.md)**
