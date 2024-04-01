@@ -1,10 +1,10 @@
 # Alexandra Peralta
 <img src="AlexandraPeralta.jpg" alt="Alexandra Peralta" style="width: 25%; height: auto;" />
-* Código : 20210151J
-* Ciclo Relativo : 6to
-* Correo : alexandra.peralta.g@uni.pe
-* Edad: 20
-* **GitHub:** [valentinapeg](https://github.com/valentinapeg)
+- Código : 20210151J
+- Ciclo Relativo : 6to
+- Correo : alexandra.peralta.g@uni.pe
+- Edad: 20
+- **GitHub:** [valentinapeg](https://github.com/valentinapeg)
 
 •¿Por qué la UNI - FIIS?
 Para empezar quise ir a la UNI por su prestigio y porque era difícil de ingresar así que eso era un reto para mí y escogí ing.Sistemas porque mi papá lo había estudiado y me decía que era una carrera amplia y si o confirme ya que era una carrera que tenía varios rubros.
@@ -23,3 +23,8 @@ Lo que espero del curso aprender más de creación de páginas web si bien me en
 
 •¿Cómo me veo en 10 años?
 Me veo liderando un grupo de personas dentro de una empresa ya sea importante o la mía donde yo pueda ofrecer soluciones óptimas a través de diversas herramientas que lograré aprender en 10 años.
+
+
+**[Ver a integrantes](../integrantes.md)**
+
+***[Regresar al índice](../../README.md)***
