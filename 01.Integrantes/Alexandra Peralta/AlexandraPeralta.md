@@ -5,7 +5,8 @@
 - Correo : alexandra.peralta.g@uni.pe
 - Edad: 20
 - **GitHub:** [valentinapeg](https://github.com/valentinapeg)
-
+  
+# Presentación
 •¿Por qué la UNI - FIIS?
 Para empezar quise ir a la UNI por su prestigio y porque era difícil de ingresar así que eso era un reto para mí y escogí ing.Sistemas porque mi papá lo había estudiado y me decía que era una carrera amplia y si o confirme ya que era una carrera que tenía varios rubros.
 
