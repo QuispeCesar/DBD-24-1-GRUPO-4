@@ -11,7 +11,7 @@
 
 1. [Acerca de Empresa](acerca_empresa.md)
 
-2. [Proceso de Almacén](descripcion_almacen.md)
+2. [Proceso de Almacén](proceso_almacen.md)
 
 
 [Regresar al índice](../README.md)
