@@ -8,9 +8,9 @@
   - Procesos
       - [Proceso de distribucion](procesodistribucion.md)
     
-  - Diagrama de procesos TO BE:
+  - Diagrama de procesos AS IS:
 
-      - [ProcesosTOBE](ProcesosTOBE.md)
+      - [ProcesosAS IS](ProcesosTOBE.md)
 
 # Módulos de trabajo
 - [Módulos](Modulos.md)
