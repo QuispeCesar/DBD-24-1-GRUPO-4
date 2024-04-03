@@ -20,5 +20,7 @@
 5. [Proceso de Marketing](proceso_marketing.md)
 
 6. [Proceso de Compra](proceso_compra.md)
-
+  
+7. [Proceso de Finanzas](https://github.com/QuispeCesar/DBD-24-1-GRUPO-4/blob/main/02.Empresa/Proceso%20Finanzas.md)
+   
 [Regresar al índice](../README.md)
