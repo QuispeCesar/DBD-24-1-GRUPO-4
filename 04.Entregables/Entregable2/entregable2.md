@@ -8,7 +8,7 @@
     
   - Diagrama de procesos TO BE:
 
-      - [ProcesosTOBE]()
+      - [ProcesosTOBE](ProcesosTOBE.md)
 
   # Módulos de trabajo
 
@@ -18,6 +18,6 @@
 
 - [Entrevista 1 (31-03-24)](../../03.Entrevista/Entrevista1/entrevista1.md)
 
-  [Regresar a los entregables](../04.Entregables/Entregable2/entregables.md)
+  [Regresar a los entregables](../../04.Entregables/Entregable2/entregables.md)
 
   [Regresar al índice](../README.md)
