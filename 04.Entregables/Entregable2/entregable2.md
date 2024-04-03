@@ -8,6 +8,7 @@
   - Procesos
       - [Proceso de distribucion](ProcesoDistribucion.md)
       - [Proceso de compra](ProcesoCompra.md)
+      - [Proceso de venta](ProcesoVenta.md)
     
   - Diagrama de procesos AS IS:
 
