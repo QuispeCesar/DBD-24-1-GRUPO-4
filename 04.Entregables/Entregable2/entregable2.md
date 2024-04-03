@@ -13,6 +13,7 @@
   # Módulos de trabajo
 
   # Requerimienmtos
+  [Requerimientos](https://github.com/QuispeCesar/DBD-24-1-GRUPO-4/blob/main/04.Entregables/Entregable2/Requerimientos.md)
 
   # Entrevista
 
