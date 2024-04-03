@@ -3,5 +3,5 @@
 
 |Secuencia|Proceso|Descripcion|
 |---------|-------|-----------|
-|1        ||Preparacion del pedido solicitado||Se prepara|
+|1        |Preparacion del pedido solicitado||Se prepara|
 
