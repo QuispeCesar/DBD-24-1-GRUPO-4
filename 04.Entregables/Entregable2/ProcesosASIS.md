@@ -20,4 +20,8 @@
 
 ![Proceso de Compra](ProcesosTOBE/proceso%20compra.jpg)
 
+- Proceso de Finanzas
+
+![Proceso de Finanzas](https://github.com/QuispeCesar/DBD-24-1-GRUPO-4/blob/main/04.Entregables/Entregable2/ProcesosTOBE/Proceso%20Finanzas.jpg)
+
 [Regresar a Entregable 2](entregable2.md)
