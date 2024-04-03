@@ -1,4 +1,4 @@
-# Procesos TO BE
+# Procesos AS IS
 
 - Proceso de Almacén
 
