@@ -4,5 +4,7 @@
 - [Entrevista1](https://drive.google.com/drive/folders/1TTn2h-Z3sSz5ciMGMDi5mqIKiaWJ94f7?usp=sharing)
 - [Acta de reunión](Acta%20de%20Reunión.md)
 
+[Regresar al entregable 2](../../04.Entregables/Entregable2/entregables.md)
+
 [Regresar a las Entrevistas](../entrevista.md)
 
