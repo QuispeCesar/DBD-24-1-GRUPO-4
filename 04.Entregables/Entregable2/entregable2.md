@@ -10,12 +10,13 @@
 
       - [ProcesosTOBE](ProcesosTOBE.md)
 
-  # Módulos de trabajo
+# Módulos de trabajo
+- [Módulos](Modulos.md)
 
-  # Requerimienmtos
-  [Requerimientos](https://github.com/QuispeCesar/DBD-24-1-GRUPO-4/blob/main/04.Entregables/Entregable2/Requerimientos.md)
+# Requerimienmtos
+- [Requerimientos](https://github.com/QuispeCesar/DBD-24-1-GRUPO-4/blob/main/04.Entregables/Entregable2/Requerimientos.md)
 
-  # Entrevista
+# Entrevista
 
 - [Entrevista 1 (31-03-24)](../../03.Entrevista/Entrevista1/entrevista1.md)
 
