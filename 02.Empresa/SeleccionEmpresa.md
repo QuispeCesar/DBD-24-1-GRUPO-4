@@ -13,5 +13,12 @@
 
 2. [Proceso de Almacén](proceso_almacen.md)
 
+3. [Proceso de Venta](proceso_centa.md)
+
+4. [Proceso de Distribución](proceso_distribución.md)
+
+5. [Proceso de Marketing](proceso_marketing.md)
+
+6. [Proceso de Compra](proceso_compra.md)
 
 [Regresar al índice](../README.md)
