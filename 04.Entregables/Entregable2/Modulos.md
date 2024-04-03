@@ -13,4 +13,15 @@
   - Interfaz visible para los usuarios para ingresar sus credenciales de inicio de sesión.
   - Interfaz visible para los usuarios para recuperar su contraseña.
 
+# Módulo 2:
+
+# Módulo 3:
+
+# Módulo 4: 
+
+# Módulo 5: 
+
+# Módulo 6:
+
+# Módulo 7: 
 [Regresar a Entregable 2](entregable2.md)
