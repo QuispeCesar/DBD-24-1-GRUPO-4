@@ -6,7 +6,7 @@
 
       - El rol usuario: Tendrá que realizar un registro, podrá interactuar con la pagina y solicitar un pedido de productos a la empresa, siempre y cuando haya stock disponible, podra revisar el estado de su entrega y sus anteriores compras.
   - Procesos
-      - [Proceso de distribucion](Proceso Distribucion.md)
+      - [Proceso de distribucion](ProcesoDistribucion.md)
       - [Proceso de compra](Proceso_Compra.md)
     
   - Diagrama de procesos AS IS:
