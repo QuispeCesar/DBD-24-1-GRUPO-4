@@ -95,3 +95,12 @@
 | - Acceder a los pedidos pendientes de entrega. <br> - Coordinar la logística de envío y entrega de productos. <br> - Actualizar el estado de los pedidos una vez entregados.|
 | No Funcionales: |
 | - Fiabilidad: Garantía de que los detalles de los pedidos sean precisos y actualizados. <br> - Eficiencia: Optimización en las rutas de entrega para tiempos de entrega más cortos. <br> - Comunicación: Capacidad para comunicarse eficazmente con el equipo de gestión de ventas y los clientes en caso de problemas de entrega. |
+
+# Requerimientos de Calidad:
+  1.  Disponibilidad: El sistema de Migni Store estará disponible el 99.9% del tiempo para que los usuarios puedan visualizar los productos y realizar compras. Sin embargo, la opción de realizar compras estará habilitada continuamente, mientras que la opción de matricularse en cursos solo estará disponible dos veces al año para ciclos regulares.   
+  2.  Seguridad: El sistema de Migni Store implementará un proceso de autenticación para verificar la identidad del usuario. Una vez autenticado, se asignarán permisos de acceso al sistema según el tipo de usuario.
+  3. Rendimiento: El tiempo de respuesta del sistema de Migni Store para los usuarios será de máximo 6 segundos.
+  4. Adaptabilidad: El sistema de Migni Store será compatible con computadoras personales y dispositivos móviles, como teléfonos inteligentes, asegurando una experiencia de usuario óptima en cualquier dispositivo mediante un diseño responsive.
+  5. Usabilidad: El sistema de Migni Store contará con una interfaz de usuario intuitiva y amigable para que los clientes puedan explorar el catálogo de productos, realizar compras y realizar cualquier otra tarea de manera eficiente y sin confusiones.
+  6. Fiabilidad: El sistema de Migni Store seguirá funcionando incluso en situaciones problemáticas. Se realizarán pruebas exhaustivas para garantizar su funcionamiento continuo y confiable.
+  7. Mantenibilidad: El sistema de Migni Store será diseñado de manera que pueda adaptarse fácilmente a cambios, correcciones de errores y actualizaciones futuras para garantizar su correcto funcionamiento a lo largo del tiempo.
