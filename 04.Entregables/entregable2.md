@@ -16,7 +16,7 @@
 
   # Entrevista
 
-- [Entrevista 1 (31-03-24)](../03.Entrevistas/Entrevista1/entrevista1.md)
+- [Entrevista 1 (31-03-24)](../03.Entrevista/Entrevista1/entrevista1.md)
 
   [Regresar a los entregables](entregables.md)
 
