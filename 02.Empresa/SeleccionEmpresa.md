@@ -13,7 +13,7 @@
 
 2. [Proceso de Almacén](proceso_almacen.md)
 
-3. [Proceso de Venta](proceso_centa.md)
+3. [Proceso de Venta](proceso_venta.md)
 
 4. [Proceso de Distribución](proceso_distribución.md)
 
