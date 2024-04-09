@@ -1,7 +1,7 @@
-#Proceso de marketing
+# Proceso de marketing
 
 
-| Secuencia | Actividad                                | Descripción                                                                                                      | Responsable      |
+| Secuencia | Actividad                                | Descripción                            | Responsable      |
 |-----------|------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------|
 | 1         | Creación de campaña          | Aquí se define el concepto de la campaña a diseñar, como que productos se van a publicitar o la temática respecto a la temporada del año.                  | Director de marketing |
 | 2         | Notificación de productos en almacén                         | Se le notifica al Director de marketing que hay existencias del producto a publicitar. | Equipo de almacén          |
