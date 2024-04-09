@@ -10,6 +10,7 @@
       - [Proceso de compra](ProcesoCompra.md)
       - [Proceso de venta](ProcesoVenta.md)
       - [Proceso de marketing](ProcesoMarketing.md)
+      - [Proceso de finanzas](ProcesoFinanzas.md)
     
   - Diagrama de procesos AS IS:
 
