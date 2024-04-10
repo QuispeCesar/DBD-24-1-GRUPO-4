@@ -150,4 +150,4 @@ Módulo 2: Compras
    - Interacción con Autenticación/Registro de Usuario:
      Personaliza las promociones y ofertas según el perfil y las preferencias de los usuarios registrados.
     
-[Regresar a Entregable 2](Entregable2/Modulos.md)
+[Regresar a Entregable 2](04.Entregables/Entregable2/entregable2.md)
