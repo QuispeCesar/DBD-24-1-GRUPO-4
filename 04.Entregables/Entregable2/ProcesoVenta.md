@@ -4,7 +4,7 @@
 | 1         | Cliente contacta a la empresa           | El cliente se comunica con la empresa a través de llamadas telefónicas o correos electrónicos.                  | Gestor de Ventas |
 | 2         | Realizar pedido                          | El cliente proporciona los detalles del pedido (productos, cantidades, etc.) durante la comunicación con la empresa. | Gestor de ventas         |
 | 3         | Recepción del pedido                    | Un empleado de ventas registra manualmente el pedido del cliente en los registros de la empresa.                 | Gestor de Ventas |
-| 4         | Revisión de inventarios                 | Un empleado de almacén verifica manualmente la disponibilidad de los productos en inventario.                   | Gestor de Almacén |
+| 4         | Revisión de inventarios                 | Se requiere que un empleado de almacén verifiue manualmente la disponibilidad de los productos en inventario  e informe la disponibilidad del producto al Gestor de Ventas que esta tendiendo al cliente.                   | Gestor de Almacén |
 | 5         | Confirmación de pedido al cliente       | Un empleado de ventas confirma el pedido al cliente a través de llamadas telefónicas o correos electrónicos.     | Gestor de Ventas |
 | 6         | Elección de método de pago              | Se discute con el cliente los métodos de pago disponibles durante la comunicación.                                | Gestor de Ventas |
 | 7         | Realizar el pago                        | El cliente realiza el pago a través de los métodos de pago acordados, como transferencia bancaria o depósito en efectivo. | Gestor de Ventas         |
