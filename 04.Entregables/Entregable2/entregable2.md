@@ -31,6 +31,9 @@
 
 - [Entrevista 1 (31-03-24)](../../03.Entrevista/Entrevista1/entrevista1.md)
 
+# Prototipo 
+- [Prototipo] (https://www.figma.com/file/JaEtbwPTFhxpp8rVLio8Lc/Proyecto-Migni-Store?type=design&node-id=0%3A1&mode=design&t=M3kXqJ2GalOimxfl-1)
+
   [Regresar a los entregables](../../04.Entregables/entregables.md)
 
   [Regresar al índice](../../README.md)
