@@ -14,7 +14,7 @@
 
 - Proceso de Marketing
 
-![Proceso de Marketing](EDITAR)
+![Proceso de Marketing](BPMN_MARKETINGTOBE.jpeg)
 
 - Proceso de Compra
 
