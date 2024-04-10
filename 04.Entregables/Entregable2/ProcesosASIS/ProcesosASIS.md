@@ -10,7 +10,7 @@
 
 - Proceso de Distribución
   
-![Proceso de Distribución](proceso%20distribución.jpg)
+![Proceso de Distribución](DistribucionAsis.jpeg)
 
 - Proceso de Marketing
 
