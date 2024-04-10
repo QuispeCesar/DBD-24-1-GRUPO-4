@@ -26,7 +26,7 @@
 
 - Proceso de Finanzas
 
-![Proceso de Finanzas](EDITAR)
+![Proceso de Finanzas](ProcesoFinanzasTOBE.png)
 
 [Regresar a Entregable 2](../entregable2.md)
 
