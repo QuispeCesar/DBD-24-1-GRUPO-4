@@ -6,7 +6,7 @@
 
 - Proceso de Venta
 
-![Proceso de Venta](ProcesoventaBPMN.png)
+![Proceso de Venta](ProcesoVentaBPMN.png)
 
 - Proceso de Distribución
   
