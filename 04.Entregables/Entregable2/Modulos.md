@@ -1,22 +1,19 @@
 # Módulos
 
-# Módulo 1: Autenticación de usuario / Registro de usuario
+# Módulo 1: CRM
 - Responsabilidades:
-  - Gestionar el proceso de registro de usuario.
-  - Gestionar el proceso de inicio de sesión para los usuarios.
-  - Validar y autenticar las credenciales de inicio de sesión de los usuarios.
-  - Autorizar funcionalidades del sistema de acuerdo con el tipo de usuario que ha iniciado
-    sesión.
-  - Permitir la recuperación de contraseñas en caso de olvido.
+  - Gestionar relaciones con clientes actuales y potenciales.
+  - Administrar leads, oportunidades de venta, clientes y procesos comerciales.
+  - Administrar leads, oportunidades de venta, clientes y procesos comerciales.
 - Visibilidad de interfaces
-  - Interfaz visible para los usuarios para el registro de usuario.
-  - Interfaz visible para los usuarios para ingresar sus credenciales de inicio de sesión.
-  - Interfaz visible para los usuarios para recuperar su contraseña.
+  - Interfaz visible para los usuarios de marketing y puedan adecuar los anuncios según los clientes potenciales.
+  - Interfaz visible para visualizar las necesidades o quejas de los clientes.
+  - Interfaz visible para mostrar los mejores clientes.
 - Interacción con otros módulos:
   - Interacción con Compras:
-    El módulo de Autenticación/Registro de Usuario garantiza que solo usuarios autenticados puedan acceder a la funcionalidad de compras.
+    El módulo de CRM ayudará a gestionar que productos deberían comprarse más para venderlos.
   - Interacción con Ventas:
-    Los usuarios autenticados pueden acceder a la función de ventas después de iniciar sesión, lo que garantiza la integridad de las transacciones.
+    El módulo de CRM necesita las ventas para saber quiénes son sus mejores cliente.
 
 Módulo 2: Compras
 # Módulo 2: Compras
