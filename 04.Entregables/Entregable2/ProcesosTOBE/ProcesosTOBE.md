@@ -10,7 +10,7 @@
 
 - Proceso de Distribución
   
-![Proceso de Distribución](EDITAR)
+![Proceso de Distribución](DistribucionTobe.jpeg)
 
 - Proceso de Marketing
 
