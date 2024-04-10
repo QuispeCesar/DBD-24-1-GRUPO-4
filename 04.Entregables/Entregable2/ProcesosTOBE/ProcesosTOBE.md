@@ -1,12 +1,12 @@
 # Procesos TO BE
 
-- Proceso de Almacén
-
-![Proceso de Almacén](ToBeAlmacen.jpg)
-
 - Proceso de Venta
 
 ![Proceso de Venta](BPMN_VENTATOBE.png)
+
+- Proceso de Almacén
+
+![Proceso de Almacén](ToBeAlmacen.jpg)
 
 - Proceso de Distribución
   
