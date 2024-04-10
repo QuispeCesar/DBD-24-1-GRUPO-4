@@ -22,7 +22,7 @@
 
 - Proceso de Finanzas
 
-![Proceso de Finanzas](Proceso%20Finanzas.jpg)
+![Proceso de Finanzas](ProcesosFinanzas.png)
 
 [Regresar a Entregable 2](../entregable2.md)
 
