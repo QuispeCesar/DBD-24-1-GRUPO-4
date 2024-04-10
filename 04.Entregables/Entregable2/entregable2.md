@@ -14,7 +14,7 @@
     
   - Diagrama de procesos AS IS:
 
-      - [Procesos AS IS](https://github.com/QuispeCesar/DBD-24-1-GRUPO-4/blob/main/04.Entregables/Entregable2/ProcesosASIS.md)
+      - [Procesos AS IS](ProcesosASIS/ProcesosASIS.md)
         
   - Diagrama de procesos TO BE:
 
