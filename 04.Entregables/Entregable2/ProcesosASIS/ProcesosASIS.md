@@ -2,7 +2,7 @@
 
 - Proceso de Almacén
 
-![Proceso de Almacén](proceso%20almacén.jpg)
+![Proceso de Almacén](AsIs%20Almacen.png)
 
 - Proceso de Venta
 
