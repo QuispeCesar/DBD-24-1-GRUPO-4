@@ -18,10 +18,12 @@
         
   - Diagrama de procesos TO BE:
 
+      - [Procesos TO BE](ProcesosTOBE/ProcesosTOBE.md)
+
 # Módulos de trabajo
 - [Módulos](Modulos.md)
 
-# Requerimienmtos
+# Requerimientos
 - [Requerimientos](https://github.com/QuispeCesar/DBD-24-1-GRUPO-4/blob/main/04.Entregables/Entregable2/Requerimientos.md)
 
 # Entrevista
