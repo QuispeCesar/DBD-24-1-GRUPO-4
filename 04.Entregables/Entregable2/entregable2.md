@@ -17,9 +17,9 @@
       5. [Proceso de marketing](ProcesoMarketing.md)
         - Este proceso es acerca de las actividades que realizan para llamar al cliente.
       6. [Proceso de finanzas](ProcesoFinanzas.md)
-        - Este proceso abarca las diversas actividades en que se gestionan las ganancias y perdidas en base a las compras, los gasto y las ventas.
+        - Este proceso abarca las diversas actividades en que se gestionan las ganancias y perdidas en base a las compras, los gastos y las ventas.
       7. [Proceso de CRM](ProcesoCRM.md)
-        - Este proceso abarca las actividades para mapear a los clientes ys aber mejor sus necesidades.
+        - Este proceso abarca las actividades para mapear a los clientes y saber mejor sus necesidades.
     
   - Diagrama de procesos AS IS:
 
