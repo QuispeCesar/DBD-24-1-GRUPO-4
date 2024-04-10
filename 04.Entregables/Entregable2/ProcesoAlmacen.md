@@ -13,4 +13,4 @@
 | 10 | Actualizar stock | Si el artículo está en buena condición, se registra la cantidad en el sistema con su respectivo código y ubicación de donde se colocará en el almacén para un rápido picking | Gestor de almacén |
 | 11 | Almacenar mercanción | El personal distribuirá los articulos según su ubicación correspondiente en los andamios del almacén. | Personal de almacén |
 | 12 | Registrar artículo defectuoso | Si se encuentra un producto defectuoso, se registrará en el sistema con las características defectuosa, el proveedor y código del producto. | Gestor de almacén |
-| 13 | El sistema enviará la solicitud de devolución o cambio de los productos defectuosos al área de ventas. | Gestor de almacén |
+| 13 | Solicitar devolución o cambio | El sistema enviará la solicitud de devolución o cambio de los productos defectuosos al área de ventas. | Gestor de almacén |
