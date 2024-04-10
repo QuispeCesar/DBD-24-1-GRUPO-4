@@ -13,4 +13,7 @@
        - Este proceso abarca las diversas actividades en que se gestionan las ganancias y perdidas en base a las compras, los gastos y las ventas.
   7. [Proceso de CRM](../Entregable2/ProcesoCRM.md)
        - Este proceso abarca las actividades para mapear a los clientes y saber mejor sus necesidades.
-    
+# Requerimientos
+- [Requerimientos](https://github.com/QuispeCesar/DBD-24-1-GRUPO-4/blob/main/04.Entregables/Entregable2/Requerimientos.md)
+# Prototipo
+- [Figma](https://www.figma.com/file/JaEtbwPTFhxpp8rVLio8Lc/Proyecto-Migni-Store?type=design&node-id=0-1&mode=design&t=zg9QLwczFGxUAi9W-0)
