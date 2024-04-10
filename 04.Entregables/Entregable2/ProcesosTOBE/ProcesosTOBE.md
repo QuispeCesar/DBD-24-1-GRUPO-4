@@ -2,7 +2,7 @@
 
 - Proceso de Almacén
 
-![Proceso de Almacén](ToBeAlamcen.jpg)
+![Proceso de Almacén](ToBeAlmacen.jpg)
 
 - Proceso de Venta
 
