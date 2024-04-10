@@ -2,7 +2,7 @@
 
 - Proceso de Almacén
 
-![Proceso de Almacén](ProcesosASIS/proceso%20almacén.jpg)
+![Proceso de Almacén](proceso%20almacén.jpg)
 
 - Proceso de Venta
 
@@ -10,19 +10,19 @@
 
 - Proceso de Distribución
   
-![Proceso de Distribución](ProcesosASIS/proceso%20distribución.jpg)
+![Proceso de Distribución](proceso%20distribución.jpg)
 
 - Proceso de Marketing
 
-![Proceso de Marketing](ProcesosASIS/proceso%20marketing.jpg)
+![Proceso de Marketing](proceso%20marketing.jpg)
 
 - Proceso de Compra
 
-![Proceso de Compra](ProcesosASIS/proceso%20compra.jpg)
+![Proceso de Compra](proceso%20compra.jpg)
 
 - Proceso de Finanzas
 
-![Proceso de Finanzas](ProcesosASIS/Proceso%20Finanzas)
+![Proceso de Finanzas](Proceso%20Finanzas)
 
 [Regresar a Entregable 2](../entregable2.md)
 
