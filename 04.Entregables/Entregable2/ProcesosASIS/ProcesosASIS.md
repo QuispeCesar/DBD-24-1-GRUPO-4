@@ -18,7 +18,7 @@
 
 - Proceso de Compra
 
-![Proceso de Compra](proceso%20compra.jpg)
+![Proceso de Compra](BPMN_Compra.png)
 
 - Proceso de Finanzas
 
