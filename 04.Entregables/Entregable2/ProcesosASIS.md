@@ -6,7 +6,7 @@
 
 - Proceso de Venta
 
-![Proceso de Venta](ProcesosTOBE/proceso%20venta.jpg)
+![Proceso de Venta](ProcesoventaBPMN.png)
 
 - Proceso de Distribución
   
