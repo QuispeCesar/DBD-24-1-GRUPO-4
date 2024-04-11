@@ -14,7 +14,7 @@
 | 9        | Envío de código de compra               | Se genera manualmente un código de compra único y se envía al cliente por correo electrónico.                    | Gestor de Ventas |
 | 10      | Emitir comprobante de pago electrónico | Se genera manualmente un comprobante de pago y se envía al cliente por correo electrónico.                      | Gestor de Ventas |
 
-![Proceso de Venta AS IS](ProcesosTOBE/ProcesoVenta.jpg)
+![Proceso de Venta AS IS](ProcesosASIS/ProcesoVentaBPMN.png)
 
 # TO BE
 ## Cambios que se implementarán
@@ -22,3 +22,5 @@
 2) De la misma forma, el usuario elige sus **metodos de pago** en la **plataforma web**.
 3) Se implementará un **sistema de notificaciones** cuando se detecte que hay **poco inventario**. La página web tendra esta función. Se avisara mediante algun canal (web, gmail) al área o al encargado del **almacén** que debe empezar a solicitar **stock** en sus productos.
 4) Los **pagos** y la **emision de comprobante de pago** ya no será manual. La misma página los puede enviar.
+
+![Proceso de Venta TO BE](ProcesosASIS/ProcesoVentaBPMN.png)
