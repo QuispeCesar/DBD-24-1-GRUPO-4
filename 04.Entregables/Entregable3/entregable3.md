@@ -1,7 +1,7 @@
  # Descripción de Procesos de Negocio
   1. [Proceso de compra](../Entregable2/ProcesoCompra.md)
       - Este proceso se refiere a las compras de los diversos productos para el almacén de la empresa y poder venderlos.
-  2. [Proceso de venta](../Entregable2/ProcesoVenta.md)
+  2. [Proceso de venta](../Entregable2/ProcesoVentaTOBE.md)
       - Este proceso es acerca de los procesos de venta en la empresa que inicia desde que el cliente nos contacta para venderle el producto.
   3. [Proceso de almacen](../Entregable2/ProcesoAlmacen.md)
        - Este proceso se refiere a cómo se gestiona el almacén de manera que constatemente se verifica el stock de los productos.
