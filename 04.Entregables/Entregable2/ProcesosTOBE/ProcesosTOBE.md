@@ -20,6 +20,10 @@
 
 ![Proceso de Compra](BPMN_COMPRATOBE.png)
 
+- Proceso CRM
+
+![Proceso CRM](Proceso-CRM-BPMN.png)
+
 - Proceso de Finanzas
 
 ![Proceso de Finanzas](EDITAR)
