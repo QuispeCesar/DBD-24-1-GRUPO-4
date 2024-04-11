@@ -8,7 +8,7 @@
   - Procesos
       1. [Proceso de compra](ProcesoCompra.md)
         - Este proceso se refiere a las compras de los diversos productos para el almacén de la empresa y poder venderlos.
-      2. [Proceso de venta](ProcesoVenta.md)
+      2. [Proceso de venta](ProcesoVentaASIS.md)
         - Este proceso es acerca de los procesos de venta en la empresa que inicia desde que el cliente nos contacta para venderle el producto.
       3. [Proceso de almacen](ProcesoAlmacen.md)
         - Este proceso se refiere a cómo se gestiona el almacén de manera que constatemente se verifica el stock de los productos.
