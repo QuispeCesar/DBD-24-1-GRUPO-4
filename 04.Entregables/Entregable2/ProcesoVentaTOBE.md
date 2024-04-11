@@ -24,3 +24,7 @@
 4) Los **pagos** y la **emision de comprobante de pago** ya no será manual. La misma página los puede enviar.
 
 ![Proceso de Venta TO BE](ProcesosTOBE/BPMN_VENTATOBE.png)
+
+ [Regresar al Entregable 3](../../04.Entregables/Entregable3/entregable3.md)
+
+  [Regresar al índice](../../README.md)
