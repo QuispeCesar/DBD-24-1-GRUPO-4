@@ -1,5 +1,5 @@
 # AS IS
-##Como actualmente se realiza
+## Como actualmente se realiza
 
 | Secuencia | Actividad                                | Descripción                                                                                                      | Responsable      |
 |-----------|------------------------------------------|------------------------------------------------------------------------------------------------------------------|------------------|
@@ -16,3 +16,7 @@
 
 # TO BE
 ## Cambios que se implementarán
+1) Se implementará la pagina web que permite realizar log in. Los usuarios podrán hacer sus pedidos directamente en el sitio web.
+2) De la misma forma, el ussuario elige sus metodos de pago en la plataforma web.
+3) Se implementará un sistema de notificaciones cuando se detecte que hay poco inventario. La página web tendra esta función. Se avisara mediante algun canal (web, gmail) al área o al encargado del almacén que debe empezar a solicitar stock en sus productos.
+4) Los pagos y la emision de comprobante de pago ya no será manual. La misma página los puede enviar.
