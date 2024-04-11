@@ -23,4 +23,4 @@
 3) Se implementará un **sistema de notificaciones** cuando se detecte que hay **poco inventario**. La página web tendra esta función. Se avisara mediante algun canal (web, gmail) al área o al encargado del **almacén** que debe empezar a solicitar **stock** en sus productos.
 4) Los **pagos** y la **emision de comprobante de pago** ya no será manual. La misma página los puede enviar.
 
-![Proceso de Venta TO BE](ProcesosASIS/ProcesoVentaBPMN.png)
+![Proceso de Venta TO BE](ProcesosTOBE/BPMN_VENTATOBE.png)
