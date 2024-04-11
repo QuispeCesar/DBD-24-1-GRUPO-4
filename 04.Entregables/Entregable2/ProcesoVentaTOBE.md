@@ -14,6 +14,8 @@
 | 9        | Envío de código de compra               | Se genera manualmente un código de compra único y se envía al cliente por correo electrónico.                    | Gestor de Ventas |
 | 10      | Emitir comprobante de pago electrónico | Se genera manualmente un comprobante de pago y se envía al cliente por correo electrónico.                      | Gestor de Ventas |
 
+![Proceso de Venta AS IS](ProcesosTOBE/ProcesoVenta.jpg)
+
 # TO BE
 ## Cambios que se implementarán
 1) Se implementará la pagina web que permite realizar **log in**. Los usuarios podrán hacer sus **pedidos** directamente en el **sitio web**.
