@@ -5,3 +5,4 @@ Bienvenidos al repositorio del Proyecto de Diseño de Base de Datos del Grupo 4.
 2. [Empresa](02.Empresa/SeleccionEmpresa.md)
 3. [Entrevista](03.Entrevista/entrevista.md)
 4. [Entregables](04.Entregables/entregables.md)
+5. [Glosario](05.Glosario/Glosario.md)
