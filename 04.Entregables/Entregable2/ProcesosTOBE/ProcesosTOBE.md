@@ -18,7 +18,7 @@
 
 - Proceso de Compra
 
-![Proceso de Compra](BPMN_COMPRATOBE.png)
+![Proceso de Compra](BPMN_CompraTOBE.png)
 
 - Proceso de CRM
 
