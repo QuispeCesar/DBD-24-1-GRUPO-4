@@ -32,13 +32,18 @@
 - Proceso de CRM - Este proceso abarca las actividades para mapear a los clientes y saber mejor sus necesidades.
 
 ### PROCESO AS IS
-- Proceso de Almacén
 
-![Proceso de Almacén](../Entregable2/ProcesosASIS/AsIs%20Almacen.png)
+- Proceso de Compra
+
+![Proceso de Compra](../Entregable2/ProcesosASIS/BPMN_CompraASIS.png)
 
 - Proceso de Venta
 
 ![Proceso de Venta](../Entregable2/ProcesosASIS/ProcesoVentaBPMN.png)
+
+- Proceso de Almacén
+
+![Proceso de Almacén](../Entregable2/ProcesosASIS/AsIs%20Almacen.png)
 
 - Proceso de Distribución
   
@@ -48,15 +53,15 @@
 
 ![Proceso de Marketing](../Entregable2/ProcesosASIS/BPMN_marketing.jpeg)
 
-- Proceso de Compra
-
-![Proceso de Compra](../Entregable2/ProcesosASIS/BPMN_CompraASIS.png)
-
 - Proceso de Finanzas
 
 ![Proceso de Finanzas](../Entregable2/ProcesosASIS/ProcesosFinanzas.png)
 
 ### PROCESO TO BE
+
+- Proceso de Compra
+
+![Proceso de Compra](../Entregable2/ProcesosTOBE/BPMN_CompraTOBE.png)
 
 - Proceso de Venta
 
@@ -74,17 +79,13 @@
 
 ![Proceso de Marketing](../Entregable2/ProcesosTOBE/BPMN_MARKETINGTOBE.jpeg)
 
-- Proceso de Compra
+- Proceso de Finanzas
 
-![Proceso de Compra](../Entregable2/ProcesosTOBE/BPMN_CompraTOBE.png)
+![Proceso de Finanzas](../Entregable2/ProcesosTOBE/ProcesoFinanzasTOBE.png)
 
 - Proceso de CRM
 
 ![Proceso de CRM](../Entregable2/ProcesosTOBE/Proceso-CRM-BPMN.png)
-
-- Proceso de Finanzas
-
-![Proceso de Finanzas](../Entregable2/ProcesosTOBE/ProcesoFinanzasTOBE.png)
 
 ### 1.3 Motivación
 -
