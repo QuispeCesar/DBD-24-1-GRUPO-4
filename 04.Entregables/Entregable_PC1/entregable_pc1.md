@@ -32,7 +32,30 @@
 - Proceso de CRM - Este proceso abarca las actividades para mapear a los clientes y saber mejor sus necesidades.
 
 ### PROCESO AS IS
--
+- Proceso de Almacén
+
+![Proceso de Almacén](../Entregable2/ProcesosASIS/AsIs%20Almacen.png)
+
+- Proceso de Venta
+
+![Proceso de Venta](..Entregable2/ProcesosASIS/ProcesoVentaBPMN.png)
+
+- Proceso de Distribución
+  
+![Proceso de Distribución](../Entregable2/ProcesosASIS/DistribucionAsis.jpeg)
+
+- Proceso de Marketing
+
+![Proceso de Marketing](../Entregable2/ProcesosASIS/BPMN_marketing.jpeg)
+
+- Proceso de Compra
+
+![Proceso de Compra](../Entregable2/ProcesosASIS/BPMN_CompraASIS.png)
+
+- Proceso de Finanzas
+
+![Proceso de Finanzas](../Entregable2/ProcesosASIS/ProcesosFinanzas.png)
+
 ### PROCESO TO BE
 -
 
