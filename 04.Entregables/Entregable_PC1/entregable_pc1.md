@@ -53,6 +53,10 @@
 
 ![Proceso de Marketing](../Entregable2/ProcesosASIS/BPMN_marketing.jpeg)
 
+- Proceso de CRM
+
+![Proceso de CRM](../Entregable2/ProcesosASIS/Proceso-CRM.png)
+
 - Proceso de Finanzas
 
 ![Proceso de Finanzas](../Entregable2/ProcesosASIS/ProcesosFinanzas.png)
