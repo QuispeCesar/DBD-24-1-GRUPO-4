@@ -38,7 +38,7 @@
 
 - Proceso de Venta
 
-![Proceso de Venta](..Entregable2/ProcesosASIS/ProcesoVentaBPMN.png)
+![Proceso de Venta](../Entregable2/ProcesosASIS/ProcesoVentaBPMN.png)
 
 - Proceso de Distribución
   
