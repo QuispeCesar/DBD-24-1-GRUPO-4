@@ -88,16 +88,19 @@ Módulo 2: Compras
   - Proporcionar detalles sobre el repartidor asignado a cada pedido, incluyendo información de contacto y tiempo estimado de llegada.
   - Implementar un sistema de rastreo para que el cliente pueda seguir el progreso de su pedido en tiempo real y tener una mayor confiabilidad en la entrega.
 - Visibilidad de interfaces:
+
   Para el cliente:
   - Acceso a la aplicación para realizar pedidos y seguir su progreso de entrega.
   - Visualización de detalles sobre el repartidor asignado, como nombre, foto y tiempo estimado de llegada.
   - Comunicación con el repartidor a través de mensajes instantáneos para coordinar detalles adicionales o hacer consultas.
   - Seguimiento en tiempo real del estado del pedido mediante el sistema de rastreo.
+  
   Para el repartidor:
   - Acceso a la aplicación para recibir detalles sobre los pedidos asignados y actualizar su estado.
   - Visualización del costo del servicio de entrega asociado a cada pedido.
   - Comunicación con el cliente y la empresa a través de mensajes instantáneos para informar sobre el progreso de la entrega.
   - Utilización del sistema de rastreo para proporcionar una ubicación precisa y confiable al cliente durante la entrega.
+  
   Para la empresa:
   - Acceso a una plataforma de gestión para asignar repartidores a pedidos y monitorear el progreso de las entregas.
   - Visualización de detalles sobre los repartidores disponibles y sus horarios de trabajo.
