@@ -57,7 +57,34 @@
 ![Proceso de Finanzas](../Entregable2/ProcesosASIS/ProcesosFinanzas.png)
 
 ### PROCESO TO BE
--
+
+- Proceso de Venta
+
+![Proceso de Venta](../Entregable2/ProcesosTOBE/BPMN_VENTATOBE.png)
+
+- Proceso de Almacén
+
+![Proceso de Almacén](../Entregable2/ProcesosTOBE/ToBeAlmacen.jpg)
+
+- Proceso de Distribución
+  
+![Proceso de Distribución](../Entregable2/ProcesosTOBE/DistribucionTobe.jpeg)
+
+- Proceso de Marketing
+
+![Proceso de Marketing](../Entregable2/ProcesosTOBE/BPMN_MARKETINGTOBE.jpeg)
+
+- Proceso de Compra
+
+![Proceso de Compra](../Entregable2/ProcesosTOBE/BPMN_CompraTOBE.png)
+
+- Proceso de CRM
+
+![Proceso de CRM](../Entregable2/ProcesosTOBE/Proceso-CRM-BPMN.png)
+
+- Proceso de Finanzas
+
+![Proceso de Finanzas](../Entregable2/ProcesosTOBE/ProcesoFinanzasTOBE.png)
 
 ### 1.3 Motivación
 -
