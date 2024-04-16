@@ -109,7 +109,11 @@
 
 ## 5. Modelado Conceptual
 ### 5.1 Diagrama de entidad relación
-[Se inserta imagen]
+- Modelo Conceptual
+
+![Modelo Conceptual](Modelo%20conceptual.png)
+
+
 ## 6. Modelado Relacional
 ### 6.1 Modelo Lógico
 [Se inserta imagen][o tambien el link]
