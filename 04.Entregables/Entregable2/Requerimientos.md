@@ -96,6 +96,20 @@
 | No Funcionales: |
 | - Fiabilidad: Garantía de que los detalles de los pedidos sean precisos y actualizados. <br> - Eficiencia: Optimización en las rutas de entrega para tiempos de entrega más cortos. <br> - Comunicación: Capacidad para comunicarse eficazmente con el equipo de gestión de ventas y los clientes en caso de problemas de entrega. |
 
+8. Gestor de marketing:
+   
+ | Caso de uso: Revisar campaña|
+ |---------------------|
+ | *Descripción:*|
+ | El gestor de marketing revisa la campaña enviada por el equipo de marketing. |
+ | *Flujo de Eventos*:
+ |- El gestor de marketing inicia sesión en su cuenta en la página web de Migni Store. <br>- El gerente accede a la sección "campañas propuestas". <br> - Se muestra la vista de campañas propuestas. <br>- El gerente de marketing accede a la opción de "ver más" de la respectiva campaña a revisar. <br>- El gerente de marketing analiza los datos presentados y toma decisiones estratégicas basadas en la información proporcionada. <br>- En caso de que considere correcta la información proporcionada, el gerente de marketing lo publicará. <br>- En caso de que se considere incorrecta la información, serechazará la campaña. <br>- En caso de rechazar la campaña, el gerente de marketing relizará las observaciones y se las enviará al equipo de marketing.|
+|*Requerimientos:*|
+| Funcionales:|
+| - Poder acceder a las campañas propuestas. <br> - Tener a disposición todos los datos necesarios de la campaña. <br> - Permitir la comunicación entre el gestor de marketing y el equipo de marketing. |
+| No Funcionales:|        
+| - Fiabilidad: El sistema debe ser confiable y estar disponible en todo momento.  <br> -  Eficiencia: El sistema debe ser eficiente en la carga y presentación de datos. <br> - Escalabilidad: El sistema debe ser capaz de manejar un aumento en el número de campañas propuestas |
+
 # Requerimientos de Calidad:
   1.  Disponibilidad: El sistema de Migni Store estará disponible el 99.9% del tiempo para que los usuarios puedan visualizar los productos y realizar compras. Sin embargo, la opción de realizar compras estará habilitada continuamente, mientras que la opción de matricularse en cursos solo estará disponible dos veces al año para ciclos regulares.   
   2.  Seguridad: El sistema de Migni Store implementará un proceso de autenticación para verificar la identidad del usuario. Una vez autenticado, se asignarán permisos de acceso al sistema según el tipo de usuario.
