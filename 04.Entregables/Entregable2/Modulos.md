@@ -43,22 +43,27 @@ Módulo 2: Compras
 - Responsabilidades:
   - Registrar todas las ventas realizadas por la empresa, incluyendo detalles como fecha, cliente, productos vendidos y cantidades.
   - Actualizar automáticamente el stock de productos en el inventario de la empresa después de cada venta.
-  - Generar registros de transacciones para fines de facturación y contabilidad.
-  - Permitir la generación y gestión de facturas para cada venta realizada.
-  - Integrarse con el módulo de clientes para asociar cada venta con el cliente correspondiente.
-  - Proporcionar estadísticas y reportes sobre las ventas realizadas para análisis y seguimiento.
+  - Gestionar los diferentes métodos de pagos y definir reglas de pago.
+  - Gestionar el historial de ventas de la empresa.
+  - Gestionar el pago de los pedidos que realizan los clientes.
+  - Informar a los clientes que su pedido ya se encuentra pagado, confirmar la compra, notificar que pueden acceder a un seguimiento de su producto.
 - Visibilidad de interfaces:
-   - Acceso al panel de control del módulo de ventas para registrar nuevas ventas y gestionar las existentes.
-   - Visualización de las ventas realizadas, así como detalles como fecha, cliente y productos vendidos.
-   - Posibilidad de generar facturas para cada venta y gestionar el proceso de facturación.
-   - Recepción de alertas o notificaciones sobre productos con bajo stock para informar a los clientes sobre su disponibilidad.
+   - Interfaz de "Home" para el gestor de ventas correspondiente.
+   - Visualización del historial de ventas de la empresa. Se puede configurar para aplicar filtros a dicha tabla.
+   - Interfaz de carro de compra para los clientes para la visaulización de productos, cantidad, fechas, dirrección para el cliente
+   - Una visualización mas profunda donde esten los detalles del producto para el cliente.
+   - Una visualización donde se escoja un método de pago para nuestro cliente.
+   - Una visualizacíon donde se pueda añadir otra dirección para la comodidad del cliente. También una ventana de confirmación
+   - Una pequeña venta que confirme el pago del producto. 
 - Interacción con otros módulos:
    - Interacción con Almacén:
     Antes de procesar una venta, se verifica la disponibilidad de productos en el almacén para evitar ventas de productos agotados.
    - Interacción con Finanzas:
    Cada transacción de venta se registra en los libros contables para mantener un registro preciso de los ingresos.
-   - Interacción con Autenticación/Registro de Usuario:
-   Solo usuarios autenticados pueden acceder a la función de ventas, lo que garantiza la seguridad y la integridad de las transacciones.
+   - Interacción con CRM:
+    La información y datos que genere ventas puede ser de mucha utilidad para el área de CRM, que requiere de estos datos para hacer sus análisis.
+   - Interacción con distribución:
+    Distribuciónn necesita que se realice la compra para poder proseguir con el proceso de entrega de producto. Son modulos altamente ligados. 
    
 # Módulo 4: Almacén
 - Responsabilidades:
