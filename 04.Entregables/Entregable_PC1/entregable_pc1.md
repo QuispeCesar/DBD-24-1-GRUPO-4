@@ -137,7 +137,8 @@
 ## 4. Prototipo
 - Para ver el prototipo debe ingresar al siguiente enlace:
 
-[Figma](https://www.figma.com/file/JaEtbwPTFhxpp8rVLio8Lc/Proyecto-Migni-Store?type=design&node-id=56-105&mode=design&t=6vRNAXtGiQCHDJhl-0)
+- [Figma](https://www.figma.com/file/JaEtbwPTFhxpp8rVLio8Lc/Proyecto-Migni-Store?type=design&node-id=56-105&mode=design&t=6vRNAXtGiQCHDJhl-0)
+- [Balsemiq (Momentáneo Almacén)](https://balsamiq.cloud/s8kcngg/pm8ichu)
 
 ## 5. Modelado Conceptual
 ### 5.1 Diagrama de entidad relación
