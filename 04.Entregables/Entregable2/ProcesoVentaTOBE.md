@@ -19,9 +19,13 @@
 # TO BE
 ## Cambios que se implementarán
 1) Se implementará la pagina web que permite realizar **log in**. Los usuarios podrán hacer sus **pedidos** directamente en el **sitio web**.
-2) De la misma forma, el usuario elige sus **metodos de pago** en la **plataforma web**.
-3) Se implementará un **sistema de notificaciones** cuando se detecte que hay **poco inventario**. La página web tendra esta función. Se avisara mediante algun canal (web, gmail) al área o al encargado del **almacén** que debe empezar a solicitar **stock** en sus productos.
-4) Los **pagos** y la **emision de comprobante de pago** ya no será manual. La misma página los puede enviar.
+2) Para crear su cuenta se le pedirá al usuario que añada sus datos personales, así como su dirreción actual para asi poder tenerlo en cuenta a la hora de
+   realizar el envío de pedidos. En caso contrario, puede añadir otra dirección por si quiere que los pedidos lleguen a esa nueva dirección. Esto
+   evita estar haciendo coordinaciones previas y lo hace más dinámico.
+4) De la misma forma, el usuario elige sus **metodos de pago** en la **plataforma web**. Se cuenta por ahora, con pagos por tarjeta de crédito y débito.
+5) Los clientes pueden acceder a su **carro de compras** donde podrán encontrar información sobre su producto. A travez del catalogo se puede añadir los
+   productos al carro de compras.
+6) La **emision de comprobante de pago** ya no será manual. La misma página los puede enviar.
 
 ![Proceso de Venta TO BE](ProcesosTOBE/VentaTOBE.png)
 
